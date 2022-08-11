@@ -1,0 +1,17 @@
+#header{
+    @apply
+        w-full
+        bg-emerald-500
+        flex
+        justify-between
+        py-5
+        px-10
+}
+#header nav{
+    @apply
+    p-5
+}
+.navlink{
+    @apply
+        p-5
+}

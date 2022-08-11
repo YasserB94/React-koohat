@@ -1,9 +1,17 @@
+//Services
+import Provider from './services/Provider';
+//Layout
+import Header from './layout/header';
+//Styles
 import './styles/global.css'
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <>
+      <Header>
+      </Header>
+
+
+    </>
   );
 }
 

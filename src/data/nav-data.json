@@ -1,0 +1,24 @@
+[
+    {
+        "links": [
+            {
+                "id": 1,
+                "name": "Home",
+                "description": "Navigate to the homepage",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "name": "anotherdummy",
+                "description": "Navigate to the homepage",
+                "path": "/"
+            },
+            {
+                "id": 3,
+                "name": "dummy",
+                "description": "Navigate to the homepage",
+                "path": "/"
+            }
+        ]
+    }
+]

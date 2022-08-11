@@ -1,4 +1,9 @@
-## Project Structure
+## Setup and Planning
+This section contains documentation about the project setup,principles.
+
+### Creating the app
+- ```npm create-react-app <app-name>```
+### Project Structure
 Here I just have an overview of what the project structure might look like, to keep my code clean, organized, reusable and scalable
 - ```src```
     - ```index.js```
@@ -27,7 +32,7 @@ Here I just have an overview of what the project structure might look like, to k
             - ```services```//--- All services only used in the ....
             - ```index.js```//---Imports and exports for the game feature
 ***
-## Install Tailwind CSS
+### Install Tailwind CSS
 For learning purposes, and to prevent losing a lot of time in CSS, I will use Tailwind CSS in this project.
 To add it to the project I followed [Tailwind's official documentation](https://tailwindcss.com/docs/guides/create-react-app)
 - ```npm install -D tailwindcss postcss autoprefixer```
