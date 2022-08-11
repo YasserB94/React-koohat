@@ -1,8 +1,19 @@
+## Roadmap
+### Starting the Layout
+Before actually implementing features I would like a base layout for the page, this layout will consist of three main parts
+- 
+    - Header containing a navbar
+    - Main page container
+    - Footer
+#### Creating the Header
+- ```/layout/header/index.js ```
+
 ## Setup and Planning
 This section contains documentation about the project setup,principles.
 
 ### Creating the app
 - ```npm create-react-app <app-name>```
+***
 ### Project Structure
 Here I just have an overview of what the project structure might look like, to keep my code clean, organized, reusable and scalable
 - ```src```
